@@ -71,3 +71,9 @@ main > * {
 /* media queries */
 
 /* YOUR CODE HERE */
+
+@media screen and (max-width: 575px) {
+  header {
+    flex-direction: column;
+  }
+}
