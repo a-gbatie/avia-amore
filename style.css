@@ -78,7 +78,15 @@ main > * {
     align-items: flex-start;
   }
 
-  header > h1 {
+  h1 {
     margin-bottom: 1rem;
+  }
+
+  h2 {
+    margin-left: 0;
+  }
+
+  .airplane-card {
+    width: 100%;
   }
 }
